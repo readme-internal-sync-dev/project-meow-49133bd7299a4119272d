@@ -4,7 +4,6 @@ excerpt: >-
   jiffy!
 hidden: false
 ---
-edited #4
 
 Welcome to ReadMe! :owlbert:
 
