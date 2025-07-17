@@ -6,7 +6,7 @@ excerpt: >-
 hidden: false
 ---
 
-# THIS HAS BEEN EDITED INTERNALLY #8
+# THIS HAS BEEN CHANGED THROUGH INTERNAL REPO
 
 Welcome to ReadMe! :owlbert:
 
