@@ -1,11 +1,10 @@
----
-title: Getting Started with meow
+--- title: Getting Started with meow
 excerpt: >-
   This page will help you get started with meow. You'll be up and running in a
   jiffy!
 hidden: false
 ---
-edited #3
+edited #4
 
 Welcome to ReadMe! :owlbert:
 
