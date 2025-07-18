@@ -5,7 +5,7 @@ excerpt: >-
   jiffy!
 hidden: false
 ---
-# THIS HAS BEEN CHANGED THROUGH INTERNAL REPO #4
+# THIS HAS BEEN CHANGED through internal repo
 
 Welcome to ReadMe! :owlbert:
 
